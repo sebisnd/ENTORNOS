@@ -7,6 +7,9 @@ public class entornos {
         String nombre = teclado.nextLine();
         System.out.print("Escribe tu edad: ");
         int edad = teclado.nextInt();
-        System.out.println("Hola, " + nombre + "! Tienes " + edad + " años.");
+        teclado.nextLine();
+        System.out.print("Escribe el día de la semana: ");
+        String dia = teclado.nextLine();
+        System.out.println("Hola, " + nombre + "! Tienes " + edad + " años. Hoy es " + dia + ".");
     }
 }
