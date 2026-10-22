@@ -11,5 +11,6 @@ public class entornos {
         System.out.print("Escribe el día de la semana: ");
         String dia = teclado.nextLine();
         System.out.println("Hola, " + nombre + "! Tienes " + edad + " años. Hoy es " + dia + ".");
+        System.out.println("Tenga un buen dia");
     }
 }
