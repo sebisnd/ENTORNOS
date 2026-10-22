@@ -1,0 +1,1 @@
+Generamos un repositorio local y en remoto github para probar las distintas funciones de git como las ramas y las fusiones, la resolucion de problemas mediante IDE y la sincronizacion en remoto mediante GITHUB con un compañeros.
